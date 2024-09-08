@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XmRPYB+T4pY=",
+  "success": true,
+  "projectFilePath": "C:\\JR\\Developer\\Backend-Dev\\ASP-DOTNET-Core\\WebServerSocket\\WebServerSocket\\WebServerSocket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayrj\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
